@@ -1,0 +1,45 @@
+
+#div1 {
+	width:  980px;
+	height=1080px;
+	text-align: left;
+}
+
+figure {
+	text-align: center;
+	font: 20px century;
+}
+
+figcaption  {
+	font: 25px century;
+	text-align: center;
+	width: 100%;
+	height: auto;
+}	
+
+body {
+	margin: 0;
+    	background-color: #f0f0f0;  
+}
+
+button {
+	height: 27px;
+	width: 60px;
+	float: center;
+	font:  20px verdana, sans-serif;
+	color: black;
+	background-color: SkyBlue;
+	border: 1px solid;
+}
+
+img {
+	font: 15px Lucida Calligraphy;
+	text-align: center;
+	color:  blue;
+}
+
+a {
+	font: 15px Lucida Calligraphy;
+	color:  blue;
+	text-decoration:  none;
+}

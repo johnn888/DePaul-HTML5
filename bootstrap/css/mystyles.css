@@ -1,0 +1,81 @@
+*  {
+	margin: 5px;
+	padding: 2px;
+}
+
+
+h1 {
+	font: bold 40px Copperplate Gothic Bold;
+	text-align: center;
+}
+
+h2 {    
+	font: bold 40px harrington;
+	text-align: center;
+}
+
+h3 {
+	font: bold 15px verdana, sans-serif;
+	text-align: center	
+}
+
+.thumbs	{
+	height: 160px;
+	width: 235px;
+	float: center;
+}
+
+body {
+	float: center;
+}
+
+#main_header {
+	background: -webkit-radial-gradient(center, ellipse, #FFFFFF, SandyBrown);
+	background: -moz-radial-gradient(center, ellipse, #FFFFFF, SandyBrown);
+	border: 2px solid #999999;
+	padding: 2px;
+	text_align:  center;
+}
+
+
+img {
+	border: 2px solid Beige;
+	
+}
+
+div {
+	text-align: center;
+}
+
+#main_section  {
+	background: -webkit-radial-gradient(center, ellipse, Wheat, SaddleBrown);
+	background: -moz-radial-gradient(center, ellipse, Wheat, SaddleBrown);
+	float: left;
+  	margin: 5px;
+}
+
+.figures {
+	float: center;
+}
+
+#sub_section {  
+	float: left;
+	background: -webkit-radial-gradient(center, ellipse, #FFFFFF, Wheat);
+	background: -moz-radial-gradient(center, ellipse, #FFFFFF, Wheat);
+	font:  15px Lucida Calligraphy;
+	Color:  black;
+}
+
+.articleCMR  {
+	float:  left;
+	font:  20px Lucida Calligraphy;
+	Color:  black;	
+}
+
+.aboutCMR {
+	float:  center;
+	font:  15px Lucida Calligraphy;
+	Color:  black;
+}
+
+
